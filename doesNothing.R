@@ -1,6 +1,6 @@
 #this does nothing!
 
-y = 2
+y = 3
 x = 1
 
-z = x + y
+Z = x + y
